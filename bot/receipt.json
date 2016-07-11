@@ -1,5 +1,5 @@
-{
-  "message": {
+[
+  {
     "attachment": {
       "type": "template",
       "payload": {
@@ -48,4 +48,4 @@
       }
     }
   }
-}
+]
